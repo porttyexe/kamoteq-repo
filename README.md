@@ -1,5 +1,5 @@
 
-## ESP8266 NodeMCU OpenHAB integration
+## ESP8266 NodeMCU OpenHAB integration (supports Alexa and Siri)
 
 > Text that is a quote
 
